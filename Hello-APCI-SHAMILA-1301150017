@@ -1,3 +1,4 @@
+<<<<<<< HEAD
   Program APCI-1301150017;
             Uses Crt;
             Begin
@@ -10,3 +11,11 @@
                 Writeln(‘NIM Teman’); //Ubah untuk menampilkan NIM teman anda
                 Writeln(‘Modul 10’); //Ubah untuk menampilkan string ‘Modul 6
             End.
+=======
+Program Hello;
+        Uses Crt;
+        Begin
+            ClrScr;
+            Writeln(‘Hello World’); //untuk mengeluarkan string ‘Hello World’ di layar
+        End
+>>>>>>> origin/master
